@@ -1,0 +1,177 @@
+[
+    {
+        "id": "p_1",
+        "term": "Apple",
+        "meaning": "苹果",
+        "example": "A fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_2",
+        "term": "Banana",
+        "meaning": "香蕉",
+        "example": "Yellow fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_3",
+        "term": "Cherry",
+        "meaning": "樱桃",
+        "example": "Red fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_4",
+        "term": "Date",
+        "meaning": "枣",
+        "example": "Sweet fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_5",
+        "term": "Elderberry",
+        "meaning": "接骨木浆果",
+        "example": "Berry.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_6",
+        "term": "Fig",
+        "meaning": "无花果",
+        "example": "Fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_7",
+        "term": "Grape",
+        "meaning": "葡萄",
+        "example": "Fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_8",
+        "term": "Honeydew",
+        "meaning": "蜜瓜",
+        "example": "Melon.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_9",
+        "term": "Kiwi",
+        "meaning": "猕猴桃",
+        "example": "Green fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_10",
+        "term": "Lemon",
+        "meaning": "柠檬",
+        "example": "Sour fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_11",
+        "term": "Mango",
+        "meaning": "芒果",
+        "example": "Tropical fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_12",
+        "term": "Nectarine",
+        "meaning": "油桃",
+        "example": "Fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_13",
+        "term": "Orange",
+        "meaning": "橙子",
+        "example": "Citrus.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_14",
+        "term": "Papaya",
+        "meaning": "木瓜",
+        "example": "Fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_15",
+        "term": "Quince",
+        "meaning": "榅桲",
+        "example": "Fruit.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_16",
+        "term": "Raspberry",
+        "meaning": "树莓",
+        "example": "Berry.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_17",
+        "term": "Strawberry",
+        "meaning": "草莓",
+        "example": "Berry.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_18",
+        "term": "Tangerine",
+        "meaning": "橘子",
+        "example": "Citrus.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_19",
+        "term": "Ugli fruit",
+        "meaning": "丑橘",
+        "example": "Citrus.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_20",
+        "term": "Vanilla",
+        "meaning": "香草",
+        "example": "Bean.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_21",
+        "term": "Watermelon",
+        "meaning": "西瓜",
+        "example": "Melon.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_22",
+        "term": "Xigua",
+        "meaning": "西瓜(中文)",
+        "example": "Melon.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_23",
+        "term": "Yam",
+        "meaning": "山药",
+        "example": "Vegetable.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_24",
+        "term": "Zucchini",
+        "meaning": "西葫芦",
+        "example": "Vegetable.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "p_25",
+        "term": "Extra",
+        "meaning": "额外",
+        "example": "One more.",
+        "createdAt": 1705276800000
+    }
+]

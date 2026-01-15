@@ -1,0 +1,142 @@
+[
+    {
+        "id": "demo_1",
+        "term": "Epiphany",
+        "meaning": "顿悟",
+        "example": "She had an epiphany about the problem.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_2",
+        "term": "Serendipity",
+        "meaning": "机缘巧合",
+        "example": "Meeting him was pure serendipity.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_3",
+        "term": "Mellifluous",
+        "meaning": "流畅的；悦耳的",
+        "example": "She has a rich, mellifluous voice.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_4",
+        "term": "Limerence",
+        "meaning": "纯爱；迷恋",
+        "example": "The state of limerence can be overwhelming.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_5",
+        "term": "Petrichor",
+        "meaning": "潮土油香（雨后泥土味）",
+        "example": "I love the smell of petrichor after a storm.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_6",
+        "term": "Ineffable",
+        "meaning": "不可言喻的",
+        "example": "The beauty of the sunset was ineffable.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_7",
+        "term": "Hiraeth",
+        "meaning": "怀乡病（威尔士语）",
+        "example": "He felt a deep sense of hiraeth for his homeland.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_8",
+        "term": "Sonder",
+        "meaning": "过客感",
+        "example": "The realization of sonder hit him locally.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_9",
+        "term": "Ethereal",
+        "meaning": "飘渺的；超凡的",
+        "example": "Her dress gave her an ethereal appearance.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_10",
+        "term": "Illicit",
+        "meaning": "违法的",
+        "example": "He was arrested for illicit activities.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_11",
+        "term": "Nefarious",
+        "meaning": "邪恶的",
+        "example": "The villain had a nefarious plan.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_12",
+        "term": "Quintessential",
+        "meaning": "典型的；完美的",
+        "example": "He is the quintessential gentleman.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_13",
+        "term": "Ubiquitous",
+        "meaning": "无处不在的",
+        "example": "Mobile phones are ubiquitous nowadays.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_14",
+        "term": "Ephemeral",
+        "meaning": "短暂的",
+        "example": "Fashion trends are often ephemeral.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_15",
+        "term": "Surreptitious",
+        "meaning": "鬼鬼祟祟的",
+        "example": "She cast a surreptitious glance at her watch.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_16",
+        "term": "Cacophony",
+        "meaning": "刺耳的声音",
+        "example": "A cacophony of car horns filled the air.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_17",
+        "term": "Euphonious",
+        "meaning": "悦耳的",
+        "example": "The poem was euphonious and moving.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_18",
+        "term": "Labyrinthine",
+        "meaning": "迷宫般的",
+        "example": "The old city consists of a labyrinthine network of streets.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_19",
+        "term": "Resilient",
+        "meaning": "有弹性的；适应力强的",
+        "example": "She is remarkably resilient to setbacks.",
+        "createdAt": 1705276800000
+    },
+    {
+        "id": "demo_20",
+        "term": "Zenith",
+        "meaning": "顶峰",
+        "example": "At the zenith of his career, he was world-famous.",
+        "createdAt": 1705276800000
+    }
+]
