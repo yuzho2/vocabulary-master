@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import type { Word } from '../types';
+import { useSpeech } from '../hooks/useSpeech';
 
 interface FlashcardQuizProps {
     words: Word[];
@@ -10,6 +11,7 @@ export const FlashcardQuiz: React.FC<FlashcardQuizProps> = ({ words, onExit }) =
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isFlipped, setIsFlipped] = useState(false);
     const [shuffledWords, setShuffledWords] = useState<Word[]>([]);
+    const { speak } = useSpeech();
 
     useEffect(() => {
         // Shuffle words on mount
@@ -40,6 +42,11 @@ export const FlashcardQuiz: React.FC<FlashcardQuizProps> = ({ words, onExit }) =
         setCurrentIndex((prev) => (prev - 1 + shuffledWords.length) % shuffledWords.length);
     };
 
+    const handleSpeak = (e: React.MouseEvent, text: string) => {
+        e.stopPropagation();
+        speak(text);
+    };
+
     if (!currentWord) return <div>Loading...</div>;
 
     return (
@@ -57,11 +64,29 @@ export const FlashcardQuiz: React.FC<FlashcardQuizProps> = ({ words, onExit }) =
             >
                 <div className="flashcard-inner">
                     <div className="flashcard-front">
-                        <h2>{currentWord.term}</h2>
+                        <div style={{ position: 'relative' }}>
+                            <h2>{currentWord.term}</h2>
+                            <button
+                                className="volume-btn"
+                                onClick={(e) => handleSpeak(e, currentWord.term)}
+                                title="Listen"
+                            >
+                                🔊
+                            </button>
+                        </div>
                         <p className="tap-hint">(Tap to reveal)</p>
                     </div>
                     <div className="flashcard-back">
-                        <h2>{currentWord.term}</h2>
+                        <div style={{ position: 'relative' }}>
+                            <h2>{currentWord.term}</h2>
+                            <button
+                                className="volume-btn"
+                                onClick={(e) => handleSpeak(e, `${currentWord.term}. ${currentWord.example}`)}
+                                title="Listen to word and example"
+                            >
+                                🔊
+                            </button>
+                        </div>
                         <p className="card-meaning">{currentWord.meaning}</p>
                         <p className="card-example">"{currentWord.example}"</p>
                     </div>

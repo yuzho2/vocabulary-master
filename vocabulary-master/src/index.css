@@ -344,3 +344,22 @@ button {
     flex-direction: column;
   }
 }
+
+/* Volume Button */
+.volume-btn {
+  background: transparent;
+  color: #c7d2fe;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  position: absolute;
+  top: 0;
+  right: -3rem;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.volume-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  transform: scale(1.1);
+}
