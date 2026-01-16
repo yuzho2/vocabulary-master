@@ -6,6 +6,7 @@ A premium, local-first web application to help you master new English vocabulary
 
 *   **Smart Add**: Enter an English word, and the app automatically fetches the Chinese meaning and example sentences.
 *   **Flashcard Quiz**: Review your words in an interactive flashcard mode with flip animations.
+*   **Audio Pronunciation**: Listen to words and examples with built-in Text-to-Speech (TTS).
 *   **Premium Design**: Glassmorphism UI with dark mode aesthetics for a comfortable study experience.
 *   **Efficient Organization**:
     *   **Filters**: Toggle between "All Words" and "Recent (24h)" to focus on what's new.
